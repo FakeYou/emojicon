@@ -1,0 +1,8 @@
+{
+  "name": "emojicon",
+  "version": "0.0.1",
+  "description": "Generate icons for web, Android and iOS with just an emoji",
+  "main": "lib/index.js",
+  "author": "Andre Nanninga <andre@nannin.ga>",
+  "license": "MIT"
+}
